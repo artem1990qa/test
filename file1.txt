@@ -1,4 +1,4 @@
-conflict
+conflict update
 conflict1
 commit test
 456
