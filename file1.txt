@@ -1,4 +1,3 @@
-conflict update
 conflict1
 commit test
 456
@@ -7,3 +6,4 @@ Add file
 91011
 Add line
 new branch line
+new line gui
